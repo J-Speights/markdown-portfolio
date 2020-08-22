@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# This is a list of stuff
+- Microphone
+- Headset
+- Monitor 1
+- Monitor 2
+- Keyboard
+- Mouse
